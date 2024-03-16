@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
           child: Row(
             children: [
               Text("안녕하세요")
+              
             ],
           ),
         ),

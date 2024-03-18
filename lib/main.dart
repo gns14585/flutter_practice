@@ -33,10 +33,6 @@ class MyApp extends StatelessWidget {
           children: [
             listItem(), 
             listItem2(), 
-            listItem(), 
-            listItem2(),
-            listItem(), 
-            listItem2(),
           ],
         ),
         bottomNavigationBar: BottomAppBar(
